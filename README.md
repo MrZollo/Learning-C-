@@ -44,7 +44,7 @@ A collection of C++ programs documenting my programming fundamentals learning jo
 - **Gaming Applications**: Interactive console programs
 
 📧 Contact
-GitHub: @MrZollo
+GitHub: @MrZollo <br>
 Repository: Learning C++
 
 📄 License
