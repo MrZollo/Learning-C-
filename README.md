@@ -2,6 +2,7 @@
 
 ![C++](https://img.shields.io/badge/C++-Learning-blue?logo=c%2B%2B&logoColor=white)
 ![Repo Visits](https://komarev.com/ghpvc/?username=MrZollo&repo=Learning-C-&label=REPO%20VISITS&color=blueviolet&style=for-the-badge)
+![Repo Visits](https://img.shields.io/badge/?username=MrZollo&repo=Learning-C-&label=REPO%20VISITS&color=blueviolet&style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 A collection of C++ programs documenting my programming fundamentals learning journey. This repository contains various projects, exercises, and assignments covering core C++ concepts from basic to advanced levels.
